@@ -1,6 +1,3 @@
-from constants import ___
-
-
 def stringify(value: str | int | float | None) -> str:
     pass
 
